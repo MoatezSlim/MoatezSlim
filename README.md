@@ -104,7 +104,7 @@
 
 </div>
 
-<h3 align="left">🔥 My Stats:</h3>
+<h3 align="left">🔥 My Projects down bellow:</h3>
 
 <div align="center">
 
