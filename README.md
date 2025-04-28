@@ -24,7 +24,16 @@
 
 <h3 align="left">👩‍💻 About Me</h3>
 
-<p align="left">I'm Moatez Slim from Tunisia.<br><br>- 🔭 I’m a student at Polytechnique Sousse.<br>- 📚 I'm currently learning cybersecurity.<br>- ⚡ In my free time, I go to the gym, enjoy simple coffee with friends, participate in CTF competitions, and I’m an active member of Securinets EPS.</p>
+<p align="left">
+I'm Moatez Slim from Tunisia.<br><br>
+- 🔭 I’m a cybersecurity engineering student at Polytechnique Sousse.<br>
+- 🛡️ Passionate about cybersecurity, encryption, pentesting, and forensic analysis.<br>
+- 💻 Experienced in full-stack web development (Laravel, React.js) and game development (Unity, SDL).<br>
+- 🏆 2nd place at ISITCOM CTF 2025 and awards for software projects.<br>
+- 📚 Currently researching satellite cybersecurity and cryptographic protocols.<br>
+- ⚡ In my free time, I go to the gym, enjoy coffee with friends, participate in CTF competitions, and contribute actively to Securinets EPS.
+</p>
+
 
 <h3 align="left">🛠 Languages and Tools</h3>
 
