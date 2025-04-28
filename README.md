@@ -1,62 +1,107 @@
-<h2 align="left">Hi 👋! My name is Moatez Slim, and I'm a cybersecurity engineer from Tunisia.
-📫 How to reach me: moatezslimpr@gmail.com</h2>
+<div align="center">
+
+<img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+
+</div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+<img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube logo" />
+
+<img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter logo" />
 
 </div>
 
-<img align="right" height="150" src="https://i.imgflip.com/55rhwq.mp4" />
+<div align="center">
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&" />
+
+</div>
+
+<h1 align="center">Hey there 👋</h1>
+
+<h3 align="left">👩‍💻 About Me</h3>
+
+<p align="left">I'm Moatez Slim from Tunisia.<br><br>- 🔭 I’m a student at Polytechnique Sousse.<br>- 📚 I'm currently learning cybersecurity.<br>- ⚡ In my free time, I go to the gym, enjoy simple coffee with friends, participate in CTF competitions, and I’m an active member of Securinets EPS.</p>
+
+<h3 align="left">🛠 Languages and Tools</h3>
 
 <div align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="Go logo" />
 
 <img width="12" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="Rust logo" />
 
 <img width="12" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="Ruby logo" />
 
 <img width="12" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="DotNet logo" />
 
 <img width="12" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="Firebase logo" />
 
 <img width="12" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="AWS logo" />
 
 <img width="12" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C# logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="CircleCI logo" />
+
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes logo" />
+
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker logo" />
+
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
+
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
+
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino logo" />
+
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
+
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
+
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="Laravel logo" />
+
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="40" alt="Symfony logo" />
+
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" height="40" alt="SDL logo" />
 
 </div>
 
-<div align="left">
+<h3 align="left">🔥 My Stats:</h3>
 
-<img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube logo" />
+<div align="center">
 
-<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
-
-<img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitch logo" />
-
-<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord logo" />
-
-<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
-
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+<img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 
 </div>
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
